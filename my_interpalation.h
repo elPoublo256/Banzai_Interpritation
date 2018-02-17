@@ -1,0 +1,6 @@
+#ifndef MY_INTERPALATION
+#define MY_INTERPALATION
+
+
+#endif // MY_INTERPALATION
+
